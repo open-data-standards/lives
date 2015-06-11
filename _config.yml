@@ -1,0 +1,7 @@
+destination: public
+exclude: [Gemfile, Gemfile.lock, .ruby-*, public]
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-mentions
